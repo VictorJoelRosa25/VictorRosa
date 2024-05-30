@@ -10,9 +10,8 @@ Porject Coordinator @ Ingenia Health
 - big impact proyect 1!
 - big impact proyect 2!
 
-- ### Education
+### Education
 - B.S., Computer Science | Interamerican University of Puerto Rico (May 2023)
 
 ### Projects
-Predictive Model
-- 
+- Predictive Model
